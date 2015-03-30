@@ -1,1 +1,4 @@
-D:\GitHub\PlayingCardNew\PlayingCardNew\obj\Debug\PlayingCardNew.csprojResolveAssemblyReference.cache
+D:\GitHub\PlayingCardNew\PlayingCardNew\bin\Debug\PlayingCardNew.dll
+D:\GitHub\PlayingCardNew\PlayingCardNew\bin\Debug\PlayingCardNew.pdb
+D:\GitHub\PlayingCardNew\PlayingCardNew\obj\Debug\PlayingCardNew.dll
+D:\GitHub\PlayingCardNew\PlayingCardNew\obj\Debug\PlayingCardNew.pdb

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PlayingCardNew.Standard
 {
-    public class Card
+    public class Card:ICard
     {
         public Suit Suit { get; set; }
         public CardNumber CardNumber { get; set; }

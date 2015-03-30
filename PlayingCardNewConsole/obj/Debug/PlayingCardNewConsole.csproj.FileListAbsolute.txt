@@ -1,1 +1,8 @@
 D:\GitHub\PlayingCardNew\PlayingCardNewConsole\bin\Debug\PlayingCardNewConsole.exe.config
+D:\GitHub\PlayingCardNew\PlayingCardNewConsole\bin\Debug\PlayingCardNewConsole.exe
+D:\GitHub\PlayingCardNew\PlayingCardNewConsole\bin\Debug\PlayingCardNewConsole.pdb
+D:\GitHub\PlayingCardNew\PlayingCardNewConsole\bin\Debug\PlayingCardNew.dll
+D:\GitHub\PlayingCardNew\PlayingCardNewConsole\bin\Debug\PlayingCardNew.pdb
+D:\GitHub\PlayingCardNew\PlayingCardNewConsole\obj\Debug\PlayingCardNewConsole.csprojResolveAssemblyReference.cache
+D:\GitHub\PlayingCardNew\PlayingCardNewConsole\obj\Debug\PlayingCardNewConsole.exe
+D:\GitHub\PlayingCardNew\PlayingCardNewConsole\obj\Debug\PlayingCardNewConsole.pdb
